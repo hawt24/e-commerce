@@ -18,25 +18,23 @@ Easily add products to the shopping cart and manage quantities. The cart provide
 
 Efficiently search for specific products using the advanced search functionality. Filters are available to narrow down results based on various criteria such as brand, size, color, and price range.
 
-### 4. Wishlist
-
-Save favorite items to a wishlist for future reference. Users can manage their wishlist and move items to the shopping cart directly.
-
-### 5. Responsive Design
+### 4. Responsive Design
 
 The app is designed to be responsive, ensuring a consistent and enjoyable user experience across various devices, including desktops, tablets, and smartphones.
 
+
+
 ## Future Features (To Be Implemented)
 
-### 6. Payment Integration
+### 5. Payment Integration
 
 Securely complete transactions using integrated payment gateways. Add support for various payment methods to facilitate a seamless checkout process.
 
-### 7. Order Tracking
+### 6. Order Tracking
 
 Enable users to track their orders in real-time, providing transparency and peace of mind. Implement order status updates to keep users informed throughout the fulfillment process.
 
-### 8. User Authentication
+### 7. User Authentication
 
 Implement secure user authentication to provide a personalized shopping experience. Users will be able to create accounts, log in, and enjoy features such as order history and saved preferences.
 
